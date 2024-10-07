@@ -4,15 +4,12 @@ CapXProject is an Android application designed to display the crypto coins and t
 
 ## Table of Contents
 - [Installation](#installation)
-- [Tech Stack](#tech-stack)
+- [Tech Stack](#Kotlin MVVM Retrofit)
 - [Screenshots](#screenshots)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
 To get started with CapXProject, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/YourUsername/CapXProject.git
+git clone https://github.com/sidd5142/CapXProject.git
